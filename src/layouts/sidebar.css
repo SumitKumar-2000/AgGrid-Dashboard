@@ -1,0 +1,68 @@
+.mainContainer{
+    display: flex;
+}
+
+.sidebar{
+    background: #1b1f24;
+    color: #ffffff;
+    height: 100vh;
+    box-shadow: 4px 4px 12px 0px rgba(153,153,153,0.26);
+    -webkit-box-shadow: 4px 4px 12px 0px rgba(153,153,153,0.26);
+    -moz-box-shadow: 4px 4px 12px 0px rgba(153,153,153,0.26);
+}
+
+.topSection{
+    display: flex;
+    align-items: center;
+    padding: 1rem;
+    border-bottom: 1px solid #ffffff;
+}
+
+.topSection_Head{
+    font-size: 1.6rem;
+}
+
+.topSection_logo{
+    font-size: 1.6rem;
+}
+
+.routes{
+    margin: 1rem auto;
+}
+
+.routeLink{
+    display: flex;  
+    padding: 6px 12px;
+    text-decoration: none;
+    color: #ffffff;
+    background-color: #1b1f24;
+    border-radius: 4px;
+    align-items: center;
+    margin: 2px 0;
+    font-weight: 400;
+}
+.routeLink:hover{
+    background-color: #24292F;
+    color: #ffffff;
+}
+.routeLink.active{
+    background-color: #24292F;
+}
+
+.routeLink :nth-child(1){
+    font-size: 1.4rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.routeName{
+    font-size: 1.2rem;
+}
+
+/* Main */
+.mainChildContainer{
+    padding: 0.7rem 1rem;
+    background-color: #f9fafb;
+}
+

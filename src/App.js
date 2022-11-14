@@ -3,9 +3,23 @@ import Sidebar from './layouts/Sidebar';
 import ChartDisplay from './pages/ChartDisplay/ChartDisplay';
 import GridDisplay from './pages/GridDisplay/GridDisplay';
 
+// styled-components
+import {ThemeProvider} from "styled-components"
+import GlobalStyles from './components/StyledComponents/Global';
+
 
 function App() {
+
+  const theme = {
+    colors:{
+      bgColor : '#f9fafb',
+      green: '#34A0A4'
+    }
+  }
+
   return (
+    <ThemeProvider theme={theme}>
+    <GlobalStyles/>
     <Router>
       <Sidebar>
         <Routes>
@@ -15,6 +29,7 @@ function App() {
         </Routes>
       </Sidebar>    
     </Router>
+    </ThemeProvider>
   );
 }
 

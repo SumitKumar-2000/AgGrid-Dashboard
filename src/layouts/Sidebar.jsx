@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import { AnimatePresence, motion } from 'framer-motion'
-import { MdOutlineDashboard, MdOutlineChat, MdDehaze } from 'react-icons/md'
+import {VscGraphLine, VscListTree, VscListSelection} from 'react-icons/vsc'
 import { NavLink } from 'react-router-dom'
 import './sidebar.css'
 
@@ -12,12 +12,12 @@ const Sidebar = ({children}) => {
     {
       path : "/grid",
       name : "Grid View",
-      icon : <MdOutlineDashboard />
+      icon : <VscListTree />
     },
     {
       path : "/chart",
       name : "Chart View",
-      icon : <MdOutlineChat/>,
+      icon : <VscGraphLine/>,
       visited : false,
     },
   ]
@@ -41,7 +41,7 @@ const Sidebar = ({children}) => {
 
   return (
     <div className='mainContainer'>
-        <motion.div animate={{width : isOpen ? "15%" : "4%", transition:{
+        <motion.div animate={{width : isOpen ? "15%" : "3%", transition:{
           duration : 0.5,
           type : "tween",
           damping : 10
@@ -56,7 +56,7 @@ const Sidebar = ({children}) => {
             >
               Bookings
             </motion.div>}
-            <MdDehaze className='topSection_logo cursorPointer' onClick={()=>setIsOpen(!isOpen)} />
+            <VscListSelection className='topSection_logo cursorPointer' onClick={()=>setIsOpen(!isOpen)} />
           </div>
 
           <section className='routes'>
@@ -80,7 +80,7 @@ const Sidebar = ({children}) => {
             ))}
           </section>
         </motion.div>
-        <main className='mainChildContainer' style={isOpen ? {width : "85%"} : {width : "96%"}}>
+        <main className='mainChildContainer' style={isOpen ? {width : "85%"} : {width : "97%"}}>
           {children}
         </main>
     </div>

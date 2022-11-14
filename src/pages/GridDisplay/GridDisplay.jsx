@@ -22,7 +22,7 @@ const GridDisplay = () => {
     {field : "babies", sortable: true, filter: 'agNumberColumnFilter'},
     {field : "country", sortable: true, filter: 'agTextColumnFilter'}
   ];
-
+  
   const defaultColDef = {
     floatingFilter: true,
     flex: 1,

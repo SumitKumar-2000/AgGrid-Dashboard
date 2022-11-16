@@ -2,7 +2,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "01",
       "adults": 2,
       "children": 0,
@@ -12,7 +12,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "01",
       "adults": 2,
       "children": 0,
@@ -22,7 +22,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "01",
       "adults": 1,
       "children": 0,
@@ -32,7 +32,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "01",
       "adults": 1,
       "children": 0,
@@ -42,7 +42,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "01",
       "adults": 2,
       "children": 0,
@@ -52,7 +52,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "01",
       "adults": 2,
       "children": 0,
@@ -62,7 +62,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "01",
       "adults": 2,
       "children": 0,
@@ -72,7 +72,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "01",
       "adults": 2,
       "children": 0,
@@ -82,7 +82,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "01",
       "adults": 2,
       "children": 0,
@@ -92,7 +92,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "01",
       "adults": 2,
       "children": 0,
@@ -102,7 +102,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "01",
       "adults": 2,
       "children": 0,
@@ -112,7 +112,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "01",
       "adults": 2,
       "children": 0,
@@ -122,7 +122,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "01",
       "adults": 2,
       "children": 0,
@@ -132,7 +132,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "01",
       "adults": 2,
       "children": 1,
@@ -142,7 +142,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "01",
       "adults": 2,
       "children": 0,
@@ -152,7 +152,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "01",
       "adults": 2,
       "children": 0,
@@ -162,7 +162,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "01",
       "adults": 2,
       "children": 0,
@@ -172,7 +172,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "01",
       "adults": 2,
       "children": 0,
@@ -182,7 +182,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "01",
       "adults": 2,
       "children": 0,
@@ -192,7 +192,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "01",
       "adults": 2,
       "children": 0,
@@ -202,7 +202,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "01",
       "adults": 1,
       "children": 0,
@@ -212,7 +212,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "01",
       "adults": 2,
       "children": 0,
@@ -222,7 +222,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "01",
       "adults": 2,
       "children": 0,
@@ -232,7 +232,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "01",
       "adults": 2,
       "children": 0,
@@ -242,7 +242,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "01",
       "adults": 2,
       "children": 0,
@@ -252,7 +252,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "01",
       "adults": 2,
       "children": 0,
@@ -262,7 +262,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "01",
       "adults": 2,
       "children": 0,
@@ -272,7 +272,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "01",
       "adults": 2,
       "children": 0,
@@ -282,7 +282,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "01",
       "adults": 2,
       "children": 0,
@@ -292,7 +292,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "01",
       "adults": 2,
       "children": 0,
@@ -302,7 +302,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "01",
       "adults": 1,
       "children": 0,
@@ -312,7 +312,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "01",
       "adults": 2,
       "children": 0,
@@ -322,7 +322,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "01",
       "adults": 2,
       "children": 0,
@@ -332,7 +332,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "02",
       "adults": 2,
       "children": 0,
@@ -342,7 +342,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "02",
       "adults": 3,
       "children": 0,
@@ -352,7 +352,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "02",
       "adults": 3,
       "children": 0,
@@ -362,7 +362,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "02",
       "adults": 2,
       "children": 0,
@@ -372,7 +372,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "02",
       "adults": 3,
       "children": 0,
@@ -382,7 +382,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "02",
       "adults": 3,
       "children": 0,
@@ -392,7 +392,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "02",
       "adults": 2,
       "children": 0,
@@ -402,7 +402,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "02",
       "adults": 2,
       "children": 0,
@@ -412,7 +412,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "02",
       "adults": 2,
       "children": 0,
@@ -422,7 +422,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "02",
       "adults": 2,
       "children": 0,
@@ -432,7 +432,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "02",
       "adults": 2,
       "children": 0,
@@ -442,7 +442,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "02",
       "adults": 2,
       "children": 0,
@@ -452,7 +452,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "02",
       "adults": 2,
       "children": 2,
@@ -462,7 +462,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "02",
       "adults": 2,
       "children": 0,
@@ -472,7 +472,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "02",
       "adults": 2,
       "children": 0,
@@ -482,7 +482,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "02",
       "adults": 2,
       "children": 0,
@@ -492,7 +492,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "02",
       "adults": 2,
       "children": 0,
@@ -502,7 +502,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "02",
       "adults": 2,
       "children": 0,
@@ -512,7 +512,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "02",
       "adults": 2,
       "children": 0,
@@ -522,7 +522,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "02",
       "adults": 2,
       "children": 0,
@@ -532,7 +532,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "02",
       "adults": 2,
       "children": 0,
@@ -542,7 +542,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "02",
       "adults": 2,
       "children": 0,
@@ -552,7 +552,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "02",
       "adults": 2,
       "children": 2,
@@ -562,7 +562,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "02",
       "adults": 2,
       "children": 0,
@@ -572,7 +572,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "02",
       "adults": 2,
       "children": 0,
@@ -582,7 +582,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "02",
       "adults": 2,
       "children": 0,
@@ -592,7 +592,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "02",
       "adults": 2,
       "children": 0,
@@ -602,7 +602,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "02",
       "adults": 2,
       "children": 0,
@@ -612,7 +612,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "02",
       "adults": 2,
       "children": 0,
@@ -622,7 +622,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "02",
       "adults": 2,
       "children": 0,
@@ -632,7 +632,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "02",
       "adults": 2,
       "children": 0,
@@ -642,7 +642,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "02",
       "adults": 2,
       "children": 0,
@@ -652,7 +652,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "03",
       "adults": 2,
       "children": 2,
@@ -662,7 +662,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "03",
       "adults": 2,
       "children": 0,
@@ -672,7 +672,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "03",
       "adults": 2,
       "children": 0,
@@ -682,7 +682,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "03",
       "adults": 3,
       "children": 0,
@@ -692,7 +692,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "03",
       "adults": 2,
       "children": 0,
@@ -702,7 +702,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "03",
       "adults": 2,
       "children": 0,
@@ -712,7 +712,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "03",
       "adults": 2,
       "children": 0,
@@ -722,7 +722,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "03",
       "adults": 2,
       "children": 0,
@@ -732,7 +732,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "03",
       "adults": 2,
       "children": 0,
@@ -742,7 +742,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "03",
       "adults": 3,
       "children": 0,
@@ -752,7 +752,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "03",
       "adults": 2,
       "children": 0,
@@ -762,7 +762,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "03",
       "adults": 2,
       "children": 0,
@@ -772,7 +772,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "03",
       "adults": 1,
       "children": 0,
@@ -782,7 +782,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "03",
       "adults": 2,
       "children": 0,
@@ -792,7 +792,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "03",
       "adults": 3,
       "children": 0,
@@ -802,7 +802,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "03",
       "adults": 2,
       "children": 0,
@@ -812,7 +812,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "03",
       "adults": 2,
       "children": 0,
@@ -822,7 +822,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "03",
       "adults": 2,
       "children": 0,
@@ -832,7 +832,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "03",
       "adults": 2,
       "children": 0,
@@ -842,7 +842,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "03",
       "adults": 2,
       "children": 0,
@@ -852,7 +852,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "03",
       "adults": 2,
       "children": 0,
@@ -862,7 +862,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "03",
       "adults": 2,
       "children": 0,
@@ -872,7 +872,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "03",
       "adults": 2,
       "children": 1,
@@ -882,7 +882,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "03",
       "adults": 2,
       "children": 0,
@@ -892,7 +892,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "03",
       "adults": 2,
       "children": 0,
@@ -902,7 +902,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "03",
       "adults": 2,
       "children": 0,
@@ -912,7 +912,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "03",
       "adults": 2,
       "children": 0,
@@ -922,7 +922,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "03",
       "adults": 2,
       "children": 0,
@@ -932,7 +932,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "03",
       "adults": 2,
       "children": 0,
@@ -942,7 +942,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "03",
       "adults": 2,
       "children": 0,
@@ -952,7 +952,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "03",
       "adults": 2,
       "children": 0,
@@ -962,7 +962,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "03",
       "adults": 2,
       "children": 0,
@@ -972,7 +972,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "03",
       "adults": 3,
       "children": 0,
@@ -982,7 +982,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "03",
       "adults": 2,
       "children": 1,
@@ -992,7 +992,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "03",
       "adults": 2,
       "children": 0,
@@ -1002,7 +1002,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "04",
       "adults": 2,
       "children": 0,
@@ -1012,7 +1012,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "04",
       "adults": 2,
       "children": 0,
@@ -1022,7 +1022,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "04",
       "adults": 1,
       "children": 2,
@@ -1032,7 +1032,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "04",
       "adults": 2,
       "children": 0,
@@ -1042,7 +1042,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "04",
       "adults": 2,
       "children": 0,
@@ -1052,7 +1052,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "04",
       "adults": 2,
       "children": 2,
@@ -1062,7 +1062,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "04",
       "adults": 3,
       "children": 0,
@@ -1072,7 +1072,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "04",
       "adults": 2,
       "children": 0,
@@ -1082,7 +1082,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "04",
       "adults": 2,
       "children": 0,
@@ -1092,7 +1092,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "04",
       "adults": 2,
       "children": 0,
@@ -1102,7 +1102,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "04",
       "adults": 2,
       "children": 0,
@@ -1112,7 +1112,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "04",
       "adults": 2,
       "children": 0,
@@ -1122,7 +1122,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "04",
       "adults": 2,
       "children": 0,
@@ -1132,7 +1132,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "04",
       "adults": 3,
       "children": 0,
@@ -1142,7 +1142,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "04",
       "adults": 2,
       "children": 0,
@@ -1152,7 +1152,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "04",
       "adults": 2,
       "children": 0,
@@ -1162,7 +1162,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "04",
       "adults": 2,
       "children": 0,
@@ -1172,7 +1172,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "04",
       "adults": 2,
       "children": 0,
@@ -1182,7 +1182,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "04",
       "adults": 2,
       "children": 1,
@@ -1192,7 +1192,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "04",
       "adults": 2,
       "children": 2,
@@ -1202,7 +1202,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "04",
       "adults": 2,
       "children": 0,
@@ -1212,7 +1212,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "04",
       "adults": 1,
       "children": 0,
@@ -1222,7 +1222,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "04",
       "adults": 1,
       "children": 0,
@@ -1232,7 +1232,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "04",
       "adults": 2,
       "children": 0,
@@ -1242,7 +1242,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "04",
       "adults": 2,
       "children": 0,
@@ -1252,7 +1252,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "04",
       "adults": 4,
       "children": 0,
@@ -1262,7 +1262,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "04",
       "adults": 2,
       "children": 0,
@@ -1272,7 +1272,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "04",
       "adults": 2,
       "children": 0,
@@ -1282,7 +1282,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "04",
       "adults": 2,
       "children": 0,
@@ -1292,7 +1292,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "04",
       "adults": 2,
       "children": 0,
@@ -1302,7 +1302,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "04",
       "adults": 2,
       "children": 0,
@@ -1312,7 +1312,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "05",
       "adults": 2,
       "children": 0,
@@ -1322,7 +1322,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "05",
       "adults": 2,
       "children": 0,
@@ -1332,7 +1332,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "05",
       "adults": 2,
       "children": 0,
@@ -1342,7 +1342,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "05",
       "adults": 1,
       "children": 0,
@@ -1352,7 +1352,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "05",
       "adults": 1,
       "children": 0,
@@ -1362,7 +1362,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "05",
       "adults": 2,
       "children": 0,
@@ -1372,7 +1372,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "05",
       "adults": 1,
       "children": 0,
@@ -1382,7 +1382,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "05",
       "adults": 2,
       "children": 0,
@@ -1392,7 +1392,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "05",
       "adults": 2,
       "children": 0,
@@ -1402,7 +1402,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "05",
       "adults": 3,
       "children": 0,
@@ -1412,7 +1412,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "05",
       "adults": 2,
       "children": 0,
@@ -1422,7 +1422,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "05",
       "adults": 2,
       "children": 0,
@@ -1432,7 +1432,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "05",
       "adults": 2,
       "children": 1,
@@ -1442,7 +1442,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "05",
       "adults": 2,
       "children": 0,
@@ -1452,7 +1452,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "05",
       "adults": 2,
       "children": 0,
@@ -1462,7 +1462,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "05",
       "adults": 2,
       "children": 0,
@@ -1472,7 +1472,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "05",
       "adults": 2,
       "children": 0,
@@ -1482,7 +1482,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "05",
       "adults": 2,
       "children": 2,
@@ -1492,7 +1492,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "05",
       "adults": 2,
       "children": 0,
@@ -1502,7 +1502,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "05",
       "adults": 2,
       "children": 2,
@@ -1512,7 +1512,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "05",
       "adults": 2,
       "children": 0,
@@ -1522,7 +1522,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "05",
       "adults": 2,
       "children": 0,
@@ -1532,7 +1532,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "05",
       "adults": 2,
       "children": 0,
@@ -1542,7 +1542,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "05",
       "adults": 2,
       "children": 2,
@@ -1552,7 +1552,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "05",
       "adults": 2,
       "children": 0,
@@ -1562,7 +1562,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "05",
       "adults": 3,
       "children": 0,
@@ -1572,7 +1572,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "05",
       "adults": 2,
       "children": 0,
@@ -1582,7 +1582,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "05",
       "adults": 1,
       "children": 0,
@@ -1592,7 +1592,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "05",
       "adults": 2,
       "children": 0,
@@ -1602,7 +1602,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "06",
       "adults": 2,
       "children": 2,
@@ -1612,7 +1612,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "06",
       "adults": 2,
       "children": 0,
@@ -1622,7 +1622,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "06",
       "adults": 2,
       "children": 0,
@@ -1632,7 +1632,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "06",
       "adults": 3,
       "children": 0,
@@ -1642,7 +1642,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "06",
       "adults": 2,
       "children": 2,
@@ -1652,7 +1652,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "06",
       "adults": 2,
       "children": 0,
@@ -1662,7 +1662,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "06",
       "adults": 3,
       "children": 0,
@@ -1672,7 +1672,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "06",
       "adults": 2,
       "children": 0,
@@ -1682,7 +1682,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "06",
       "adults": 1,
       "children": 0,
@@ -1692,7 +1692,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "06",
       "adults": 2,
       "children": 1,
@@ -1702,7 +1702,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "06",
       "adults": 2,
       "children": 0,
@@ -1712,7 +1712,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "06",
       "adults": 2,
       "children": 0,
@@ -1722,7 +1722,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "06",
       "adults": 2,
       "children": 0,
@@ -1732,7 +1732,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "06",
       "adults": 2,
       "children": 0,
@@ -1742,7 +1742,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "06",
       "adults": 2,
       "children": 0,
@@ -1752,7 +1752,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "06",
       "adults": 2,
       "children": 0,
@@ -1762,7 +1762,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "06",
       "adults": 2,
       "children": 0,
@@ -1772,7 +1772,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "06",
       "adults": 2,
       "children": 0,
@@ -1782,7 +1782,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "06",
       "adults": 2,
       "children": 0,
@@ -1792,7 +1792,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "06",
       "adults": 2,
       "children": 0,
@@ -1802,7 +1802,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "06",
       "adults": 2,
       "children": 2,
@@ -1812,7 +1812,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "06",
       "adults": 1,
       "children": 0,
@@ -1822,7 +1822,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "06",
       "adults": 2,
       "children": 0,
@@ -1832,7 +1832,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "06",
       "adults": 2,
       "children": 0,
@@ -1842,7 +1842,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "06",
       "adults": 2,
       "children": 0,
@@ -1852,7 +1852,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "06",
       "adults": 2,
       "children": 0,
@@ -1862,7 +1862,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "06",
       "adults": 2,
       "children": 0,
@@ -1872,7 +1872,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "06",
       "adults": 2,
       "children": 0,
@@ -1882,7 +1882,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "06",
       "adults": 2,
       "children": 0,
@@ -1892,7 +1892,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "06",
       "adults": 1,
       "children": 0,
@@ -1902,7 +1902,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "06",
       "adults": 2,
       "children": 0,
@@ -1912,7 +1912,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "06",
       "adults": 2,
       "children": 0,
@@ -1922,7 +1922,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "06",
       "adults": 2,
       "children": 0,
@@ -1932,7 +1932,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "07",
       "adults": 2,
       "children": 0,
@@ -1942,7 +1942,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "07",
       "adults": 2,
       "children": 0,
@@ -1952,7 +1952,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "07",
       "adults": 2,
       "children": 1,
@@ -1962,7 +1962,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "07",
       "adults": 2,
       "children": 0,
@@ -1972,7 +1972,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "07",
       "adults": 2,
       "children": 0,
@@ -1982,7 +1982,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "07",
       "adults": 1,
       "children": 0,
@@ -1992,7 +1992,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "07",
       "adults": 3,
       "children": 0,
@@ -2002,7 +2002,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "07",
       "adults": 1,
       "children": 0,
@@ -2012,7 +2012,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "07",
       "adults": 3,
       "children": 2,
@@ -2022,7 +2022,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "07",
       "adults": 2,
       "children": 0,
@@ -2032,7 +2032,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "07",
       "adults": 3,
       "children": 0,
@@ -2042,7 +2042,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "07",
       "adults": 2,
       "children": 0,
@@ -2052,7 +2052,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "07",
       "adults": 2,
       "children": 0,
@@ -2062,7 +2062,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "07",
       "adults": 2,
       "children": 0,
@@ -2072,7 +2072,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "07",
       "adults": 2,
       "children": 0,
@@ -2082,7 +2082,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "07",
       "adults": 2,
       "children": 0,
@@ -2092,7 +2092,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "07",
       "adults": 2,
       "children": 0,
@@ -2102,7 +2102,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "08",
       "adults": 2,
       "children": 0,
@@ -2112,7 +2112,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "08",
       "adults": 2,
       "children": 0,
@@ -2122,7 +2122,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "08",
       "adults": 2,
       "children": 0,
@@ -2132,7 +2132,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "08",
       "adults": 2,
       "children": 0,
@@ -2142,7 +2142,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "08",
       "adults": 2,
       "children": 0,
@@ -2152,7 +2152,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "08",
       "adults": 2,
       "children": 0,
@@ -2162,7 +2162,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "08",
       "adults": 2,
       "children": 0,
@@ -2172,7 +2172,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "08",
       "adults": 1,
       "children": 0,
@@ -2182,7 +2182,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "08",
       "adults": 2,
       "children": 0,
@@ -2192,7 +2192,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "08",
       "adults": 2,
       "children": 0,
@@ -2202,7 +2202,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "08",
       "adults": 2,
       "children": 0,
@@ -2212,7 +2212,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "08",
       "adults": 2,
       "children": 0,
@@ -2222,7 +2222,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "08",
       "adults": 2,
       "children": 0,
@@ -2232,7 +2232,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "08",
       "adults": 2,
       "children": 1,
@@ -2242,7 +2242,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "08",
       "adults": 2,
       "children": 0,
@@ -2252,7 +2252,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "08",
       "adults": 2,
       "children": 0,
@@ -2262,7 +2262,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "08",
       "adults": 2,
       "children": 0,
@@ -2272,7 +2272,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "08",
       "adults": 3,
       "children": 0,
@@ -2282,7 +2282,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "08",
       "adults": 3,
       "children": 0,
@@ -2292,7 +2292,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "08",
       "adults": 2,
       "children": 0,
@@ -2302,7 +2302,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "09",
       "adults": 2,
       "children": 2,
@@ -2312,7 +2312,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "09",
       "adults": 3,
       "children": 0,
@@ -2322,7 +2322,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "09",
       "adults": 2,
       "children": 2,
@@ -2332,7 +2332,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "09",
       "adults": 2,
       "children": 0,
@@ -2342,7 +2342,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "09",
       "adults": 2,
       "children": 2,
@@ -2352,7 +2352,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "09",
       "adults": 2,
       "children": 2,
@@ -2362,7 +2362,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "09",
       "adults": 2,
       "children": 0,
@@ -2372,7 +2372,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "09",
       "adults": 2,
       "children": 0,
@@ -2382,7 +2382,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "09",
       "adults": 2,
       "children": 0,
@@ -2392,7 +2392,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "09",
       "adults": 1,
       "children": 0,
@@ -2402,7 +2402,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "09",
       "adults": 2,
       "children": 0,
@@ -2412,7 +2412,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "09",
       "adults": 2,
       "children": 0,
@@ -2422,7 +2422,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "09",
       "adults": 2,
       "children": 0,
@@ -2432,7 +2432,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "09",
       "adults": 2,
       "children": 0,
@@ -2442,7 +2442,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "09",
       "adults": 2,
       "children": 0,
@@ -2452,7 +2452,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "09",
       "adults": 2,
       "children": 0,
@@ -2462,7 +2462,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "09",
       "adults": 2,
       "children": 0,
@@ -2472,7 +2472,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "09",
       "adults": 2,
       "children": 0,
@@ -2482,7 +2482,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "10",
       "adults": 2,
       "children": 0,
@@ -2492,7 +2492,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "10",
       "adults": 2,
       "children": 0,
@@ -2502,7 +2502,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "10",
       "adults": 2,
       "children": 0,
@@ -2512,7 +2512,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "10",
       "adults": 2,
       "children": 0,
@@ -2522,7 +2522,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "10",
       "adults": 2,
       "children": 0,
@@ -2532,7 +2532,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "10",
       "adults": 2,
       "children": 0,
@@ -2542,7 +2542,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "10",
       "adults": 2,
       "children": 1,
@@ -2552,7 +2552,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "10",
       "adults": 2,
       "children": 0,
@@ -2562,7 +2562,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "10",
       "adults": 2,
       "children": 0,
@@ -2572,7 +2572,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "10",
       "adults": 2,
       "children": 0,
@@ -2582,7 +2582,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "10",
       "adults": 2,
       "children": 0,
@@ -2592,7 +2592,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "10",
       "adults": 2,
       "children": 0,
@@ -2602,7 +2602,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "10",
       "adults": 2,
       "children": 0,
@@ -2612,7 +2612,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "10",
       "adults": 2,
       "children": 0,
@@ -2622,7 +2622,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "10",
       "adults": 2,
       "children": 0,
@@ -2632,7 +2632,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "10",
       "adults": 2,
       "children": 0,
@@ -2642,7 +2642,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "10",
       "adults": 2,
       "children": 0,
@@ -2652,7 +2652,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "10",
       "adults": 2,
       "children": 2,
@@ -2662,7 +2662,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "10",
       "adults": 2,
       "children": 0,
@@ -2672,7 +2672,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "10",
       "adults": 2,
       "children": 0,
@@ -2682,7 +2682,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "10",
       "adults": 2,
       "children": 0,
@@ -2692,7 +2692,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "10",
       "adults": 2,
       "children": 0,
@@ -2702,7 +2702,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "10",
       "adults": 1,
       "children": 0,
@@ -2712,7 +2712,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "10",
       "adults": 2,
       "children": 1,
@@ -2722,7 +2722,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "10",
       "adults": 2,
       "children": 1,
@@ -2732,7 +2732,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "10",
       "adults": 3,
       "children": 1,
@@ -2742,7 +2742,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "10",
       "adults": 2,
       "children": 0,
@@ -2752,7 +2752,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "10",
       "adults": 2,
       "children": 0,
@@ -2762,7 +2762,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "10",
       "adults": 2,
       "children": 0,
@@ -2772,7 +2772,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "10",
       "adults": 2,
       "children": 0,
@@ -2782,7 +2782,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "10",
       "adults": 2,
       "children": 1,
@@ -2792,7 +2792,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "10",
       "adults": 2,
       "children": 0,
@@ -2802,7 +2802,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "11",
       "adults": 2,
       "children": 1,
@@ -2812,7 +2812,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "11",
       "adults": 2,
       "children": 0,
@@ -2822,7 +2822,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "11",
       "adults": 2,
       "children": 0,
@@ -2832,7 +2832,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "11",
       "adults": 2,
       "children": 0,
@@ -2842,7 +2842,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "11",
       "adults": 3,
       "children": 0,
@@ -2852,7 +2852,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "11",
       "adults": 2,
       "children": 0,
@@ -2862,7 +2862,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "11",
       "adults": 2,
       "children": 0,
@@ -2872,7 +2872,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "11",
       "adults": 2,
       "children": 0,
@@ -2882,7 +2882,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "11",
       "adults": 2,
       "children": 0,
@@ -2892,7 +2892,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "11",
       "adults": 2,
       "children": 0,
@@ -2902,7 +2902,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "11",
       "adults": 2,
       "children": 0,
@@ -2912,7 +2912,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "11",
       "adults": 1,
       "children": 0,
@@ -2922,7 +2922,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "11",
       "adults": 2,
       "children": 0,
@@ -2932,7 +2932,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "11",
       "adults": 2,
       "children": 0,
@@ -2942,7 +2942,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "11",
       "adults": 2,
       "children": 0,
@@ -2952,7 +2952,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "11",
       "adults": 2,
       "children": 0,
@@ -2962,7 +2962,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "11",
       "adults": 2,
       "children": 0,
@@ -2972,7 +2972,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "11",
       "adults": 2,
       "children": 0,
@@ -2982,7 +2982,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "11",
       "adults": 2,
       "children": 0,
@@ -2992,7 +2992,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "11",
       "adults": 2,
       "children": 0,
@@ -3002,7 +3002,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "11",
       "adults": 2,
       "children": 0,
@@ -3012,7 +3012,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "11",
       "adults": 2,
       "children": 0,
@@ -3022,7 +3022,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "11",
       "adults": 2,
       "children": 0,
@@ -3032,7 +3032,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "11",
       "adults": 2,
       "children": 2,
@@ -3042,7 +3042,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "11",
       "adults": 2,
       "children": 0,
@@ -3052,7 +3052,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "11",
       "adults": 2,
       "children": 0,
@@ -3062,7 +3062,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "11",
       "adults": 2,
       "children": 0,
@@ -3072,7 +3072,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "12",
       "adults": 2,
       "children": 2,
@@ -3082,7 +3082,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "12",
       "adults": 2,
       "children": 0,
@@ -3092,7 +3092,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "12",
       "adults": 2,
       "children": 1,
@@ -3102,7 +3102,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "12",
       "adults": 2,
       "children": 0,
@@ -3112,7 +3112,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "12",
       "adults": 2,
       "children": 0,
@@ -3122,7 +3122,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "12",
       "adults": 2,
       "children": 0,
@@ -3132,7 +3132,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "12",
       "adults": 2,
       "children": 0,
@@ -3142,7 +3142,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "12",
       "adults": 2,
       "children": 0,
@@ -3152,7 +3152,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "12",
       "adults": 3,
       "children": 1,
@@ -3162,7 +3162,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "12",
       "adults": 2,
       "children": 0,
@@ -3172,7 +3172,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "12",
       "adults": 2,
       "children": 0,
@@ -3182,7 +3182,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "12",
       "adults": 2,
       "children": 0,
@@ -3192,7 +3192,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "12",
       "adults": 2,
       "children": 0,
@@ -3202,7 +3202,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "12",
       "adults": 2,
       "children": 0,
@@ -3212,7 +3212,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "12",
       "adults": 2,
       "children": 0,
@@ -3222,7 +3222,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "12",
       "adults": 2,
       "children": 0,
@@ -3232,7 +3232,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "12",
       "adults": 2,
       "children": 0,
@@ -3242,7 +3242,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "12",
       "adults": 2,
       "children": 0,
@@ -3252,7 +3252,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "12",
       "adults": 2,
       "children": 0,
@@ -3262,7 +3262,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "12",
       "adults": 2,
       "children": 0,
@@ -3272,7 +3272,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "12",
       "adults": 2,
       "children": 0,
@@ -3282,7 +3282,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "12",
       "adults": 2,
       "children": 10,
@@ -3292,7 +3292,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "12",
       "adults": 2,
       "children": 0,
@@ -3302,7 +3302,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "12",
       "adults": 2,
       "children": 0,
@@ -3312,7 +3312,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "12",
       "adults": 2,
       "children": 2,
@@ -3322,7 +3322,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "12",
       "adults": 2,
       "children": 0,
@@ -3332,7 +3332,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "12",
       "adults": 2,
       "children": 0,
@@ -3342,7 +3342,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "12",
       "adults": 2,
       "children": 0,
@@ -3352,7 +3352,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "12",
       "adults": 2,
       "children": 0,
@@ -3362,7 +3362,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "12",
       "adults": 2,
       "children": 0,
@@ -3372,7 +3372,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "12",
       "adults": 2,
       "children": 0,
@@ -3382,7 +3382,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "12",
       "adults": 2,
       "children": 0,
@@ -3392,7 +3392,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "12",
       "adults": 2,
       "children": 0,
@@ -3402,7 +3402,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "12",
       "adults": 2,
       "children": 0,
@@ -3412,7 +3412,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "12",
       "adults": 2,
       "children": 2,
@@ -3422,7 +3422,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "12",
       "adults": 2,
       "children": 0,
@@ -3432,7 +3432,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "12",
       "adults": 2,
       "children": 0,
@@ -3442,7 +3442,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "12",
       "adults": 2,
       "children": 2,
@@ -3452,7 +3452,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "12",
       "adults": 2,
       "children": 0,
@@ -3462,7 +3462,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "13",
       "adults": 2,
       "children": 0,
@@ -3472,7 +3472,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "13",
       "adults": 2,
       "children": 0,
@@ -3482,7 +3482,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "13",
       "adults": 2,
       "children": 0,
@@ -3492,7 +3492,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "13",
       "adults": 2,
       "children": 0,
@@ -3502,7 +3502,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "13",
       "adults": 2,
       "children": 0,
@@ -3512,7 +3512,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "13",
       "adults": 2,
       "children": 0,
@@ -3522,7 +3522,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "13",
       "adults": 2,
       "children": 0,
@@ -3532,7 +3532,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "13",
       "adults": 2,
       "children": 0,
@@ -3542,7 +3542,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "13",
       "adults": 4,
       "children": 0,
@@ -3552,7 +3552,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "13",
       "adults": 2,
       "children": 0,
@@ -3562,7 +3562,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "13",
       "adults": 2,
       "children": 0,
@@ -3572,7 +3572,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "13",
       "adults": 2,
       "children": 0,
@@ -3582,7 +3582,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "13",
       "adults": 2,
       "children": 0,
@@ -3592,7 +3592,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "13",
       "adults": 2,
       "children": 0,
@@ -3602,7 +3602,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "13",
       "adults": 2,
       "children": 0,
@@ -3612,7 +3612,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "13",
       "adults": 2,
       "children": 0,
@@ -3622,7 +3622,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "13",
       "adults": 2,
       "children": 0,
@@ -3632,7 +3632,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "13",
       "adults": 1,
       "children": 0,
@@ -3642,7 +3642,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "13",
       "adults": 2,
       "children": 0,
@@ -3652,7 +3652,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "13",
       "adults": 2,
       "children": 0,
@@ -3662,7 +3662,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "13",
       "adults": 2,
       "children": 0,
@@ -3672,7 +3672,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "13",
       "adults": 2,
       "children": 0,
@@ -3682,7 +3682,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "13",
       "adults": 2,
       "children": 0,
@@ -3692,7 +3692,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "13",
       "adults": 2,
       "children": 0,
@@ -3702,7 +3702,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "13",
       "adults": 2,
       "children": 0,
@@ -3712,7 +3712,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "13",
       "adults": 2,
       "children": 0,
@@ -3722,7 +3722,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "13",
       "adults": 2,
       "children": 0,
@@ -3732,7 +3732,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "13",
       "adults": 3,
       "children": 0,
@@ -3742,7 +3742,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "13",
       "adults": 2,
       "children": 0,
@@ -3752,7 +3752,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "13",
       "adults": 2,
       "children": 0,
@@ -3762,7 +3762,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "13",
       "adults": 1,
       "children": 0,
@@ -3772,7 +3772,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "13",
       "adults": 2,
       "children": 0,
@@ -3782,7 +3782,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "13",
       "adults": 2,
       "children": 0,
@@ -3792,7 +3792,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "13",
       "adults": 2,
       "children": 0,
@@ -3802,7 +3802,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "13",
       "adults": 2,
       "children": 1,
@@ -3812,7 +3812,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "13",
       "adults": 2,
       "children": 0,
@@ -3822,7 +3822,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "13",
       "adults": 2,
       "children": 0,
@@ -3832,7 +3832,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "13",
       "adults": 2,
       "children": 0,
@@ -3842,7 +3842,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "13",
       "adults": 2,
       "children": 0,
@@ -3852,7 +3852,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "13",
       "adults": 2,
       "children": 0,
@@ -3862,7 +3862,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "14",
       "adults": 2,
       "children": 0,
@@ -3872,7 +3872,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "14",
       "adults": 1,
       "children": 0,
@@ -3882,7 +3882,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "14",
       "adults": 2,
       "children": 0,
@@ -3892,7 +3892,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "14",
       "adults": 2,
       "children": 0,
@@ -3902,7 +3902,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "14",
       "adults": 2,
       "children": 0,
@@ -3912,7 +3912,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "14",
       "adults": 2,
       "children": 0,
@@ -3922,7 +3922,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "14",
       "adults": 2,
       "children": 0,
@@ -3932,7 +3932,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "14",
       "adults": 2,
       "children": 0,
@@ -3942,7 +3942,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "14",
       "adults": 2,
       "children": 0,
@@ -3952,7 +3952,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "14",
       "adults": 2,
       "children": 1,
@@ -3962,7 +3962,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "14",
       "adults": 2,
       "children": 2,
@@ -3972,7 +3972,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "14",
       "adults": 1,
       "children": 0,
@@ -3982,7 +3982,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "14",
       "adults": 2,
       "children": 0,
@@ -3992,7 +3992,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "14",
       "adults": 2,
       "children": 0,
@@ -4002,7 +4002,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "14",
       "adults": 2,
       "children": 0,
@@ -4012,7 +4012,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "14",
       "adults": 2,
       "children": 0,
@@ -4022,7 +4022,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "14",
       "adults": 2,
       "children": 0,
@@ -4032,7 +4032,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "14",
       "adults": 2,
       "children": 0,
@@ -4042,7 +4042,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "14",
       "adults": 2,
       "children": 0,
@@ -4052,7 +4052,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "14",
       "adults": 2,
       "children": 0,
@@ -4062,7 +4062,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "14",
       "adults": 3,
       "children": 0,
@@ -4072,7 +4072,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "14",
       "adults": 1,
       "children": 0,
@@ -4082,7 +4082,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "15",
       "adults": 2,
       "children": 0,
@@ -4092,7 +4092,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "15",
       "adults": 2,
       "children": 0,
@@ -4102,7 +4102,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "15",
       "adults": 2,
       "children": 0,
@@ -4112,7 +4112,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "15",
       "adults": 2,
       "children": 0,
@@ -4122,67 +4122,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
-      "arrival_date_day_of_month": "15",
-      "adults": 2,
-      "children": 2,
-      "babies": 0,
-      "country": "GBR",
-    },
-    {
-      "hotel": "Resort Hotel",
-      "arrival_date_year": 2015,
-      "arrival_date_month": "July",
-      "arrival_date_day_of_month": "15",
-      "adults": 2,
-      "children": 0,
-      "babies": 0,
-      "country": "PRT",
-    },
-    {
-      "hotel": "Resort Hotel",
-      "arrival_date_year": 2015,
-      "arrival_date_month": "July",
-      "arrival_date_day_of_month": "15",
-      "adults": 2,
-      "children": 0,
-      "babies": 0,
-      "country": "PRT",
-    },
-    {
-      "hotel": "Resort Hotel",
-      "arrival_date_year": 2015,
-      "arrival_date_month": "July",
-      "arrival_date_day_of_month": "15",
-      "adults": 2,
-      "children": 0,
-      "babies": 0,
-      "country": "PRT",
-    },
-    {
-      "hotel": "Resort Hotel",
-      "arrival_date_year": 2015,
-      "arrival_date_month": "July",
-      "arrival_date_day_of_month": "15",
-      "adults": 2,
-      "children": 0,
-      "babies": 0,
-      "country": "PRT",
-    },
-    {
-      "hotel": "Resort Hotel",
-      "arrival_date_year": 2015,
-      "arrival_date_month": "July",
-      "arrival_date_day_of_month": "15",
-      "adults": 2,
-      "children": 0,
-      "babies": 0,
-      "country": "PRT",
-    },
-    {
-      "hotel": "Resort Hotel",
-      "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "15",
       "adults": 2,
       "children": 2,
@@ -4192,7 +4132,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "15",
       "adults": 2,
       "children": 0,
@@ -4202,7 +4142,67 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
+      "arrival_date_day_of_month": "15",
+      "adults": 2,
+      "children": 0,
+      "babies": 0,
+      "country": "PRT",
+    },
+    {
+      "hotel": "Resort Hotel",
+      "arrival_date_year": 2015,
+      "arrival_date_month": "07",
+      "arrival_date_day_of_month": "15",
+      "adults": 2,
+      "children": 0,
+      "babies": 0,
+      "country": "PRT",
+    },
+    {
+      "hotel": "Resort Hotel",
+      "arrival_date_year": 2015,
+      "arrival_date_month": "07",
+      "arrival_date_day_of_month": "15",
+      "adults": 2,
+      "children": 0,
+      "babies": 0,
+      "country": "PRT",
+    },
+    {
+      "hotel": "Resort Hotel",
+      "arrival_date_year": 2015,
+      "arrival_date_month": "07",
+      "arrival_date_day_of_month": "15",
+      "adults": 2,
+      "children": 0,
+      "babies": 0,
+      "country": "PRT",
+    },
+    {
+      "hotel": "Resort Hotel",
+      "arrival_date_year": 2015,
+      "arrival_date_month": "07",
+      "arrival_date_day_of_month": "15",
+      "adults": 2,
+      "children": 2,
+      "babies": 0,
+      "country": "GBR",
+    },
+    {
+      "hotel": "Resort Hotel",
+      "arrival_date_year": 2015,
+      "arrival_date_month": "07",
+      "arrival_date_day_of_month": "15",
+      "adults": 2,
+      "children": 0,
+      "babies": 0,
+      "country": "PRT",
+    },
+    {
+      "hotel": "Resort Hotel",
+      "arrival_date_year": 2015,
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "15",
       "adults": 1,
       "children": 0,
@@ -4212,7 +4212,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "15",
       "adults": 2,
       "children": 0,
@@ -4222,7 +4222,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "15",
       "adults": 2,
       "children": 0,
@@ -4232,7 +4232,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "15",
       "adults": 3,
       "children": 0,
@@ -4242,7 +4242,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "15",
       "adults": 1,
       "children": 0,
@@ -4252,7 +4252,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "15",
       "adults": 2,
       "children": 0,
@@ -4262,7 +4262,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "15",
       "adults": 2,
       "children": 0,
@@ -4272,7 +4272,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "15",
       "adults": 3,
       "children": 0,
@@ -4282,7 +4282,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "15",
       "adults": 1,
       "children": 0,
@@ -4292,7 +4292,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "15",
       "adults": 2,
       "children": 0,
@@ -4302,7 +4302,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "15",
       "adults": 2,
       "children": 0,
@@ -4312,7 +4312,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "15",
       "adults": 2,
       "children": 0,
@@ -4322,7 +4322,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "15",
       "adults": 2,
       "children": 0,
@@ -4332,7 +4332,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "15",
       "adults": 2,
       "children": 0,
@@ -4342,7 +4342,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "16",
       "adults": 2,
       "children": 2,
@@ -4352,7 +4352,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "16",
       "adults": 2,
       "children": 0,
@@ -4362,7 +4362,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "16",
       "adults": 2,
       "children": 0,
@@ -4372,7 +4372,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "16",
       "adults": 1,
       "children": 0,
@@ -4382,7 +4382,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "16",
       "adults": 2,
       "children": 0,
@@ -4392,7 +4392,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "16",
       "adults": 2,
       "children": 2,
@@ -4402,7 +4402,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "16",
       "adults": 2,
       "children": 2,
@@ -4412,7 +4412,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "16",
       "adults": 2,
       "children": 0,
@@ -4422,7 +4422,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "16",
       "adults": 2,
       "children": 1,
@@ -4432,7 +4432,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "16",
       "adults": 2,
       "children": 0,
@@ -4442,7 +4442,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "16",
       "adults": 2,
       "children": 0,
@@ -4452,7 +4452,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "16",
       "adults": 2,
       "children": 0,
@@ -4462,7 +4462,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "16",
       "adults": 2,
       "children": 0,
@@ -4472,7 +4472,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "16",
       "adults": 2,
       "children": 0,
@@ -4482,7 +4482,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "16",
       "adults": 2,
       "children": 0,
@@ -4492,7 +4492,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "16",
       "adults": 2,
       "children": 0,
@@ -4502,7 +4502,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "16",
       "adults": 2,
       "children": 0,
@@ -4512,7 +4512,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "16",
       "adults": 1,
       "children": 0,
@@ -4522,7 +4522,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "16",
       "adults": 2,
       "children": 0,
@@ -4532,7 +4532,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "16",
       "adults": 2,
       "children": 0,
@@ -4542,7 +4542,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "16",
       "adults": 2,
       "children": 0,
@@ -4552,7 +4552,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "16",
       "adults": 2,
       "children": 0,
@@ -4562,7 +4562,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "16",
       "adults": 2,
       "children": 0,
@@ -4572,7 +4572,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "16",
       "adults": 2,
       "children": 0,
@@ -4582,7 +4582,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "16",
       "adults": 1,
       "children": 0,
@@ -4592,7 +4592,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "17",
       "adults": 2,
       "children": 0,
@@ -4602,7 +4602,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "17",
       "adults": 2,
       "children": 0,
@@ -4612,7 +4612,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "17",
       "adults": 2,
       "children": 0,
@@ -4622,7 +4622,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "17",
       "adults": 2,
       "children": 0,
@@ -4632,7 +4632,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "17",
       "adults": 2,
       "children": 0,
@@ -4642,7 +4642,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "17",
       "adults": 2,
       "children": 0,
@@ -4652,7 +4652,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "17",
       "adults": 2,
       "children": 0,
@@ -4662,7 +4662,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "17",
       "adults": 2,
       "children": 0,
@@ -4672,7 +4672,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "17",
       "adults": 2,
       "children": 0,
@@ -4682,7 +4682,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "17",
       "adults": 2,
       "children": 0,
@@ -4692,7 +4692,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "17",
       "adults": 2,
       "children": 0,
@@ -4702,7 +4702,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "17",
       "adults": 2,
       "children": 0,
@@ -4712,7 +4712,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "17",
       "adults": 2,
       "children": 0,
@@ -4722,7 +4722,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "17",
       "adults": 1,
       "children": 0,
@@ -4732,7 +4732,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "17",
       "adults": 2,
       "children": 0,
@@ -4742,7 +4742,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "17",
       "adults": 2,
       "children": 0,
@@ -4752,7 +4752,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "17",
       "adults": 2,
       "children": 1,
@@ -4762,7 +4762,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "17",
       "adults": 2,
       "children": 0,
@@ -4772,7 +4772,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "17",
       "adults": 1,
       "children": 0,
@@ -4782,7 +4782,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "17",
       "adults": 2,
       "children": 0,
@@ -4792,7 +4792,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "17",
       "adults": 1,
       "children": 0,
@@ -4802,7 +4802,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "17",
       "adults": 1,
       "children": 0,
@@ -4812,7 +4812,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "17",
       "adults": 2,
       "children": 0,
@@ -4822,7 +4822,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "17",
       "adults": 3,
       "children": 1,
@@ -4832,7 +4832,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "17",
       "adults": 2,
       "children": 0,
@@ -4842,7 +4842,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "17",
       "adults": 2,
       "children": 2,
@@ -4852,7 +4852,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "17",
       "adults": 2,
       "children": 0,
@@ -4862,7 +4862,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "17",
       "adults": 2,
       "children": 2,
@@ -4872,7 +4872,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "17",
       "adults": 2,
       "children": 0,
@@ -4882,7 +4882,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "17",
       "adults": 2,
       "children": 0,
@@ -4892,7 +4892,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "17",
       "adults": 2,
       "children": 0,
@@ -4902,7 +4902,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "17",
       "adults": 2,
       "children": 0,
@@ -4912,7 +4912,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "17",
       "adults": 2,
       "children": 0,
@@ -4922,7 +4922,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "17",
       "adults": 2,
       "children": 0,
@@ -4932,7 +4932,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "17",
       "adults": 3,
       "children": 0,
@@ -4942,7 +4942,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "17",
       "adults": 2,
       "children": 0,
@@ -4952,7 +4952,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "17",
       "adults": 2,
       "children": 0,
@@ -4962,7 +4962,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "17",
       "adults": 2,
       "children": 1,
@@ -4972,7 +4972,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "17",
       "adults": 2,
       "children": 1,
@@ -4982,7 +4982,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "17",
       "adults": 2,
       "children": 0,
@@ -4992,7 +4992,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "17",
       "adults": 2,
       "children": 0,
@@ -5002,7 +5002,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "17",
       "adults": 2,
       "children": 0,
@@ -5012,7 +5012,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "17",
       "adults": 2,
       "children": 0,
@@ -5022,7 +5022,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "17",
       "adults": 2,
       "children": 0,
@@ -5032,7 +5032,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "17",
       "adults": 2,
       "children": 0,
@@ -5042,7 +5042,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "17",
       "adults": 2,
       "children": 0,
@@ -5052,7 +5052,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "17",
       "adults": 2,
       "children": 1,
@@ -5062,7 +5062,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "17",
       "adults": 2,
       "children": 0,
@@ -5072,7 +5072,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "17",
       "adults": 3,
       "children": 0,
@@ -5082,7 +5082,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "18",
       "adults": 2,
       "children": 0,
@@ -5092,7 +5092,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "18",
       "adults": 2,
       "children": 0,
@@ -5102,7 +5102,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "18",
       "adults": 2,
       "children": 1,
@@ -5112,7 +5112,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "18",
       "adults": 2,
       "children": 2,
@@ -5122,7 +5122,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "18",
       "adults": 2,
       "children": 0,
@@ -5132,7 +5132,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "18",
       "adults": 2,
       "children": 0,
@@ -5142,7 +5142,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "18",
       "adults": 2,
       "children": 0,
@@ -5152,7 +5152,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "18",
       "adults": 2,
       "children": 0,
@@ -5162,7 +5162,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "18",
       "adults": 2,
       "children": 0,
@@ -5172,7 +5172,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "18",
       "adults": 2,
       "children": 0,
@@ -5182,7 +5182,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "18",
       "adults": 2,
       "children": 2,
@@ -5192,7 +5192,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "18",
       "adults": 2,
       "children": 0,
@@ -5202,7 +5202,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "18",
       "adults": 2,
       "children": 0,
@@ -5212,7 +5212,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "18",
       "adults": 2,
       "children": 1,
@@ -5222,7 +5222,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "18",
       "adults": 2,
       "children": 0,
@@ -5232,7 +5232,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "18",
       "adults": 2,
       "children": 2,
@@ -5242,7 +5242,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "18",
       "adults": 1,
       "children": 2,
@@ -5252,7 +5252,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "18",
       "adults": 1,
       "children": 0,
@@ -5262,7 +5262,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "18",
       "adults": 2,
       "children": 1,
@@ -5272,7 +5272,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "18",
       "adults": 2,
       "children": 0,
@@ -5282,7 +5282,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "18",
       "adults": 2,
       "children": 0,
@@ -5292,7 +5292,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "18",
       "adults": 2,
       "children": 0,
@@ -5302,7 +5302,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "18",
       "adults": 2,
       "children": 0,
@@ -5312,7 +5312,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "18",
       "adults": 2,
       "children": 0,
@@ -5322,7 +5322,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "18",
       "adults": 2,
       "children": 0,
@@ -5332,7 +5332,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "18",
       "adults": 2,
       "children": 0,
@@ -5342,7 +5342,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "18",
       "adults": 2,
       "children": 0,
@@ -5352,7 +5352,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "18",
       "adults": 2,
       "children": 0,
@@ -5362,7 +5362,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "18",
       "adults": 2,
       "children": 0,
@@ -5372,7 +5372,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "18",
       "adults": 2,
       "children": 0,
@@ -5382,7 +5382,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "19",
       "adults": 2,
       "children": 0,
@@ -5392,7 +5392,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "19",
       "adults": 2,
       "children": 0,
@@ -5402,7 +5402,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "19",
       "adults": 2,
       "children": 0,
@@ -5412,7 +5412,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "19",
       "adults": 2,
       "children": 0,
@@ -5422,7 +5422,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "19",
       "adults": 2,
       "children": 0,
@@ -5432,7 +5432,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "19",
       "adults": 2,
       "children": 0,
@@ -5442,7 +5442,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "19",
       "adults": 2,
       "children": 0,
@@ -5452,7 +5452,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "19",
       "adults": 2,
       "children": 0,
@@ -5462,7 +5462,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "19",
       "adults": 2,
       "children": 0,
@@ -5472,7 +5472,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "19",
       "adults": 2,
       "children": 0,
@@ -5482,7 +5482,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "19",
       "adults": 1,
       "children": 0,
@@ -5492,7 +5492,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "19",
       "adults": 2,
       "children": 0,
@@ -5502,7 +5502,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "19",
       "adults": 2,
       "children": 2,
@@ -5512,7 +5512,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "19",
       "adults": 2,
       "children": 0,
@@ -5522,7 +5522,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "19",
       "adults": 2,
       "children": 0,
@@ -5532,7 +5532,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "19",
       "adults": 2,
       "children": 0,
@@ -5542,7 +5542,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "19",
       "adults": 2,
       "children": 0,
@@ -5552,7 +5552,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "19",
       "adults": 2,
       "children": 0,
@@ -5562,7 +5562,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "19",
       "adults": 2,
       "children": 0,
@@ -5572,7 +5572,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "19",
       "adults": 2,
       "children": 1,
@@ -5582,7 +5582,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "19",
       "adults": 2,
       "children": 2,
@@ -5592,7 +5592,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "19",
       "adults": 2,
       "children": 0,
@@ -5602,7 +5602,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "19",
       "adults": 2,
       "children": 0,
@@ -5612,7 +5612,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "19",
       "adults": 2,
       "children": 0,
@@ -5622,7 +5622,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "19",
       "adults": 2,
       "children": 2,
@@ -5632,7 +5632,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "19",
       "adults": 2,
       "children": 0,
@@ -5642,7 +5642,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "19",
       "adults": 2,
       "children": 0,
@@ -5652,7 +5652,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "19",
       "adults": 2,
       "children": 0,
@@ -5662,7 +5662,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "20",
       "adults": 1,
       "children": 0,
@@ -5672,7 +5672,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "20",
       "adults": 2,
       "children": 2,
@@ -5682,7 +5682,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "20",
       "adults": 1,
       "children": 0,
@@ -5692,7 +5692,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "20",
       "adults": 2,
       "children": 0,
@@ -5702,7 +5702,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "20",
       "adults": 2,
       "children": 0,
@@ -5712,7 +5712,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "20",
       "adults": 2,
       "children": 0,
@@ -5722,7 +5722,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "20",
       "adults": 2,
       "children": 0,
@@ -5732,7 +5732,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "20",
       "adults": 2,
       "children": 0,
@@ -5742,7 +5742,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "20",
       "adults": 2,
       "children": 0,
@@ -5752,7 +5752,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "20",
       "adults": 2,
       "children": 0,
@@ -5762,7 +5762,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "20",
       "adults": 2,
       "children": 0,
@@ -5772,7 +5772,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "20",
       "adults": 2,
       "children": 2,
@@ -5782,7 +5782,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "20",
       "adults": 2,
       "children": 0,
@@ -5792,7 +5792,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "20",
       "adults": 2,
       "children": 0,
@@ -5802,7 +5802,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "20",
       "adults": 2,
       "children": 2,
@@ -5812,7 +5812,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "20",
       "adults": 2,
       "children": 0,
@@ -5822,7 +5822,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "20",
       "adults": 2,
       "children": 0,
@@ -5832,7 +5832,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "20",
       "adults": 2,
       "children": 0,
@@ -5842,7 +5842,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "20",
       "adults": 2,
       "children": 1,
@@ -5852,7 +5852,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "20",
       "adults": 2,
       "children": 2,
@@ -5862,7 +5862,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "20",
       "adults": 2,
       "children": 0,
@@ -5872,7 +5872,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "20",
       "adults": 2,
       "children": 0,
@@ -5882,7 +5882,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "20",
       "adults": 2,
       "children": 0,
@@ -5892,7 +5892,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "20",
       "adults": 2,
       "children": 1,
@@ -5902,7 +5902,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "20",
       "adults": 2,
       "children": 0,
@@ -5912,7 +5912,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "20",
       "adults": 2,
       "children": 1,
@@ -5922,7 +5922,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "20",
       "adults": 2,
       "children": 0,
@@ -5932,7 +5932,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "20",
       "adults": 2,
       "children": 0,
@@ -5942,7 +5942,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "20",
       "adults": 2,
       "children": 1,
@@ -5952,7 +5952,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "20",
       "adults": 2,
       "children": 0,
@@ -5962,7 +5962,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "20",
       "adults": 2,
       "children": 0,
@@ -5972,7 +5972,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "20",
       "adults": 2,
       "children": 0,
@@ -5982,7 +5982,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "20",
       "adults": 2,
       "children": 0,
@@ -5992,7 +5992,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "21",
       "adults": 2,
       "children": 0,
@@ -6002,7 +6002,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "21",
       "adults": 1,
       "children": 0,
@@ -6012,7 +6012,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "21",
       "adults": 2,
       "children": 0,
@@ -6022,7 +6022,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "21",
       "adults": 2,
       "children": 2,
@@ -6032,7 +6032,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "21",
       "adults": 2,
       "children": 0,
@@ -6042,7 +6042,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "21",
       "adults": 3,
       "children": 0,
@@ -6052,7 +6052,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "21",
       "adults": 3,
       "children": 0,
@@ -6062,7 +6062,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "21",
       "adults": 2,
       "children": 0,
@@ -6072,7 +6072,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "21",
       "adults": 3,
       "children": 0,
@@ -6082,7 +6082,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "21",
       "adults": 2,
       "children": 0,
@@ -6092,7 +6092,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "21",
       "adults": 2,
       "children": 1,
@@ -6102,7 +6102,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "21",
       "adults": 2,
       "children": 0,
@@ -6112,7 +6112,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "22",
       "adults": 2,
       "children": 0,
@@ -6122,7 +6122,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "22",
       "adults": 2,
       "children": 0,
@@ -6132,7 +6132,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "22",
       "adults": 2,
       "children": 0,
@@ -6142,7 +6142,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "22",
       "adults": 2,
       "children": 1,
@@ -6152,7 +6152,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "22",
       "adults": 2,
       "children": 2,
@@ -6162,7 +6162,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "22",
       "adults": 2,
       "children": 0,
@@ -6172,7 +6172,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "22",
       "adults": 2,
       "children": 0,
@@ -6182,7 +6182,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "23",
       "adults": 2,
       "children": 2,
@@ -6192,7 +6192,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "23",
       "adults": 2,
       "children": 0,
@@ -6202,7 +6202,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "23",
       "adults": 2,
       "children": 0,
@@ -6212,7 +6212,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "23",
       "adults": 2,
       "children": 0,
@@ -6222,7 +6222,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "23",
       "adults": 1,
       "children": 0,
@@ -6232,7 +6232,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "23",
       "adults": 2,
       "children": 0,
@@ -6242,7 +6242,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "23",
       "adults": 2,
       "children": 0,
@@ -6252,7 +6252,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "23",
       "adults": 2,
       "children": 0,
@@ -6262,7 +6262,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "23",
       "adults": 2,
       "children": 0,
@@ -6272,7 +6272,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "23",
       "adults": 2,
       "children": 2,
@@ -6282,7 +6282,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "23",
       "adults": 2,
       "children": 0,
@@ -6292,7 +6292,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "23",
       "adults": 2,
       "children": 0,
@@ -6302,7 +6302,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "23",
       "adults": 2,
       "children": 0,
@@ -6312,7 +6312,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "23",
       "adults": 2,
       "children": 0,
@@ -6322,7 +6322,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "23",
       "adults": 3,
       "children": 0,
@@ -6332,7 +6332,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "24",
       "adults": 2,
       "children": 0,
@@ -6342,7 +6342,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "24",
       "adults": 2,
       "children": 0,
@@ -6352,7 +6352,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "24",
       "adults": 2,
       "children": 0,
@@ -6362,7 +6362,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "24",
       "adults": 2,
       "children": 0,
@@ -6372,7 +6372,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "24",
       "adults": 2,
       "children": 0,
@@ -6382,7 +6382,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "24",
       "adults": 2,
       "children": 0,
@@ -6392,7 +6392,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "24",
       "adults": 2,
       "children": 0,
@@ -6402,7 +6402,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "24",
       "adults": 2,
       "children": 0,
@@ -6412,7 +6412,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "24",
       "adults": 2,
       "children": 2,
@@ -6422,7 +6422,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "24",
       "adults": 2,
       "children": 0,
@@ -6432,7 +6432,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "24",
       "adults": 2,
       "children": 0,
@@ -6442,7 +6442,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "24",
       "adults": 2,
       "children": 0,
@@ -6452,7 +6452,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "24",
       "adults": 2,
       "children": 0,
@@ -6462,7 +6462,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "24",
       "adults": 3,
       "children": 0,
@@ -6472,7 +6472,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "24",
       "adults": 2,
       "children": 0,
@@ -6482,7 +6482,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "24",
       "adults": 2,
       "children": 0,
@@ -6492,7 +6492,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "24",
       "adults": 2,
       "children": 0,
@@ -6502,7 +6502,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "24",
       "adults": 2,
       "children": 0,
@@ -6512,7 +6512,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "24",
       "adults": 2,
       "children": 0,
@@ -6522,7 +6522,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "24",
       "adults": 2,
       "children": 0,
@@ -6532,7 +6532,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "24",
       "adults": 2,
       "children": 0,
@@ -6542,7 +6542,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "24",
       "adults": 2,
       "children": 0,
@@ -6552,7 +6552,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "24",
       "adults": 2,
       "children": 0,
@@ -6562,7 +6562,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "24",
       "adults": 2,
       "children": 0,
@@ -6572,7 +6572,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "24",
       "adults": 2,
       "children": 0,
@@ -6582,7 +6582,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "24",
       "adults": 2,
       "children": 0,
@@ -6592,7 +6592,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "24",
       "adults": 2,
       "children": 2,
@@ -6602,7 +6602,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "24",
       "adults": 2,
       "children": 0,
@@ -6612,7 +6612,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "24",
       "adults": 2,
       "children": 0,
@@ -6622,7 +6622,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "24",
       "adults": 2,
       "children": 0,
@@ -6632,7 +6632,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "24",
       "adults": 2,
       "children": 0,
@@ -6642,7 +6642,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "24",
       "adults": 3,
       "children": 0,
@@ -6652,7 +6652,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "25",
       "adults": 2,
       "children": 1,
@@ -6662,7 +6662,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "25",
       "adults": 2,
       "children": 0,
@@ -6672,7 +6672,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "25",
       "adults": 2,
       "children": 0,
@@ -6682,7 +6682,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "25",
       "adults": 2,
       "children": 0,
@@ -6692,7 +6692,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "25",
       "adults": 2,
       "children": 0,
@@ -6702,7 +6702,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "25",
       "adults": 2,
       "children": 0,
@@ -6712,7 +6712,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "25",
       "adults": 2,
       "children": 0,
@@ -6722,7 +6722,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "25",
       "adults": 2,
       "children": 0,
@@ -6732,7 +6732,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "25",
       "adults": 2,
       "children": 0,
@@ -6742,7 +6742,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "25",
       "adults": 2,
       "children": 0,
@@ -6752,7 +6752,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "25",
       "adults": 2,
       "children": 0,
@@ -6762,7 +6762,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "25",
       "adults": 2,
       "children": 0,
@@ -6772,7 +6772,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "25",
       "adults": 2,
       "children": 0,
@@ -6782,7 +6782,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "25",
       "adults": 2,
       "children": 0,
@@ -6792,7 +6792,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "25",
       "adults": 2,
       "children": 1,
@@ -6802,7 +6802,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "25",
       "adults": 2,
       "children": 0,
@@ -6812,7 +6812,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "25",
       "adults": 2,
       "children": 0,
@@ -6822,7 +6822,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "25",
       "adults": 2,
       "children": 2,
@@ -6832,7 +6832,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "25",
       "adults": 2,
       "children": 2,
@@ -6842,7 +6842,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "25",
       "adults": 2,
       "children": 0,
@@ -6852,7 +6852,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "25",
       "adults": 2,
       "children": 0,
@@ -6862,7 +6862,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "25",
       "adults": 2,
       "children": 0,
@@ -6872,7 +6872,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "25",
       "adults": 2,
       "children": 0,
@@ -6882,7 +6882,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "25",
       "adults": 2,
       "children": 0,
@@ -6892,7 +6892,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "25",
       "adults": 2,
       "children": 0,
@@ -6902,7 +6902,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "25",
       "adults": 2,
       "children": 0,
@@ -6912,7 +6912,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "25",
       "adults": 2,
       "children": 0,
@@ -6922,7 +6922,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "25",
       "adults": 2,
       "children": 0,
@@ -6932,7 +6932,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "25",
       "adults": 2,
       "children": 0,
@@ -6942,7 +6942,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "25",
       "adults": 1,
       "children": 0,
@@ -6952,7 +6952,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "25",
       "adults": 3,
       "children": 0,
@@ -6962,7 +6962,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "25",
       "adults": 2,
       "children": 0,
@@ -6972,7 +6972,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "25",
       "adults": 2,
       "children": 0,
@@ -6982,7 +6982,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "25",
       "adults": 1,
       "children": 0,
@@ -6992,7 +6992,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "25",
       "adults": 2,
       "children": 0,
@@ -7002,7 +7002,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "25",
       "adults": 2,
       "children": 0,
@@ -7012,7 +7012,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "25",
       "adults": 2,
       "children": 0,
@@ -7022,7 +7022,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "25",
       "adults": 2,
       "children": 0,
@@ -7032,7 +7032,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "25",
       "adults": 2,
       "children": 0,
@@ -7042,7 +7042,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "25",
       "adults": 2,
       "children": 1,
@@ -7052,7 +7052,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "25",
       "adults": 3,
       "children": 0,
@@ -7062,7 +7062,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "25",
       "adults": 2,
       "children": 0,
@@ -7072,7 +7072,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "26",
       "adults": 2,
       "children": 0,
@@ -7082,7 +7082,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "26",
       "adults": 2,
       "children": 0,
@@ -7092,7 +7092,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "26",
       "adults": 2,
       "children": 0,
@@ -7102,7 +7102,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "26",
       "adults": 2,
       "children": 0,
@@ -7112,7 +7112,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "26",
       "adults": 2,
       "children": 1,
@@ -7122,7 +7122,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "26",
       "adults": 2,
       "children": 0,
@@ -7132,7 +7132,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "26",
       "adults": 3,
       "children": 0,
@@ -7142,7 +7142,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "26",
       "adults": 2,
       "children": 1,
@@ -7152,7 +7152,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "26",
       "adults": 2,
       "children": 0,
@@ -7162,7 +7162,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "26",
       "adults": 2,
       "children": 2,
@@ -7172,7 +7172,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "26",
       "adults": 2,
       "children": 0,
@@ -7182,7 +7182,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "26",
       "adults": 2,
       "children": 0,
@@ -7192,7 +7192,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "26",
       "adults": 2,
       "children": 0,
@@ -7202,7 +7202,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "26",
       "adults": 2,
       "children": 0,
@@ -7212,7 +7212,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "26",
       "adults": 2,
       "children": 0,
@@ -7222,7 +7222,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "27",
       "adults": 2,
       "children": 0,
@@ -7232,7 +7232,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "27",
       "adults": 2,
       "children": 2,
@@ -7242,7 +7242,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "27",
       "adults": 2,
       "children": 0,
@@ -7252,7 +7252,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "27",
       "adults": 2,
       "children": 2,
@@ -7262,7 +7262,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "27",
       "adults": 1,
       "children": 0,
@@ -7272,7 +7272,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "27",
       "adults": 2,
       "children": 0,
@@ -7282,7 +7282,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "27",
       "adults": 2,
       "children": 0,
@@ -7292,7 +7292,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "27",
       "adults": 2,
       "children": 0,
@@ -7302,7 +7302,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "27",
       "adults": 2,
       "children": 0,
@@ -7312,7 +7312,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "27",
       "adults": 2,
       "children": 0,
@@ -7322,7 +7322,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "27",
       "adults": 2,
       "children": 0,
@@ -7332,7 +7332,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "27",
       "adults": 2,
       "children": 0,
@@ -7342,7 +7342,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "27",
       "adults": 2,
       "children": 0,
@@ -7352,7 +7352,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "27",
       "adults": 2,
       "children": 0,
@@ -7362,7 +7362,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "27",
       "adults": 2,
       "children": 0,
@@ -7372,7 +7372,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "27",
       "adults": 2,
       "children": 0,
@@ -7382,7 +7382,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "27",
       "adults": 2,
       "children": 1,
@@ -7392,7 +7392,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "27",
       "adults": 2,
       "children": 0,
@@ -7402,7 +7402,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "27",
       "adults": 2,
       "children": 0,
@@ -7412,7 +7412,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "27",
       "adults": 2,
       "children": 0,
@@ -7422,7 +7422,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "27",
       "adults": 2,
       "children": 0,
@@ -7432,7 +7432,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "27",
       "adults": 2,
       "children": 1,
@@ -7442,7 +7442,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "27",
       "adults": 2,
       "children": 0,
@@ -7452,7 +7452,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "27",
       "adults": 2,
       "children": 0,
@@ -7462,7 +7462,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "27",
       "adults": 2,
       "children": 0,
@@ -7472,7 +7472,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "27",
       "adults": 2,
       "children": 0,
@@ -7482,7 +7482,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "27",
       "adults": 2,
       "children": 0,
@@ -7492,7 +7492,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "27",
       "adults": 2,
       "children": 0,
@@ -7502,7 +7502,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "27",
       "adults": 2,
       "children": 0,
@@ -7512,7 +7512,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "27",
       "adults": 3,
       "children": 0,
@@ -7522,7 +7522,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "27",
       "adults": 2,
       "children": 0,
@@ -7532,7 +7532,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "27",
       "adults": 2,
       "children": 0,
@@ -7542,7 +7542,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "27",
       "adults": 2,
       "children": 0,
@@ -7552,7 +7552,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "27",
       "adults": 2,
       "children": 0,
@@ -7562,7 +7562,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "27",
       "adults": 2,
       "children": 0,
@@ -7572,7 +7572,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "27",
       "adults": 2,
       "children": 0,
@@ -7582,7 +7582,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "27",
       "adults": 2,
       "children": 0,
@@ -7592,7 +7592,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "27",
       "adults": 2,
       "children": 0,
@@ -7602,7 +7602,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "28",
       "adults": 2,
       "children": 1,
@@ -7612,7 +7612,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "28",
       "adults": 2,
       "children": 1,
@@ -7622,7 +7622,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "28",
       "adults": 2,
       "children": 0,
@@ -7632,7 +7632,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "28",
       "adults": 2,
       "children": 2,
@@ -7642,7 +7642,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "28",
       "adults": 2,
       "children": 0,
@@ -7652,7 +7652,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "28",
       "adults": 2,
       "children": 0,
@@ -7662,7 +7662,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "28",
       "adults": 2,
       "children": 0,
@@ -7672,7 +7672,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "28",
       "adults": 2,
       "children": 0,
@@ -7682,7 +7682,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "28",
       "adults": 2,
       "children": 0,
@@ -7692,7 +7692,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "28",
       "adults": 2,
       "children": 0,
@@ -7702,7 +7702,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "28",
       "adults": 2,
       "children": 0,
@@ -7712,7 +7712,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "28",
       "adults": 2,
       "children": 0,
@@ -7722,7 +7722,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "28",
       "adults": 2,
       "children": 0,
@@ -7732,7 +7732,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "28",
       "adults": 2,
       "children": 0,
@@ -7742,7 +7742,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "29",
       "adults": 2,
       "children": 0,
@@ -7752,7 +7752,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "29",
       "adults": 2,
       "children": 0,
@@ -7762,7 +7762,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "29",
       "adults": 2,
       "children": 0,
@@ -7772,7 +7772,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "29",
       "adults": 2,
       "children": 0,
@@ -7782,7 +7782,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "29",
       "adults": 2,
       "children": 0,
@@ -7792,7 +7792,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "29",
       "adults": 2,
       "children": 0,
@@ -7802,7 +7802,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "29",
       "adults": 3,
       "children": 0,
@@ -7812,7 +7812,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "29",
       "adults": 2,
       "children": 0,
@@ -7822,7 +7822,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "29",
       "adults": 2,
       "children": 2,
@@ -7832,7 +7832,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "29",
       "adults": 2,
       "children": 0,
@@ -7842,7 +7842,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "29",
       "adults": 2,
       "children": 0,
@@ -7852,7 +7852,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "29",
       "adults": 2,
       "children": 0,
@@ -7862,7 +7862,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "29",
       "adults": 2,
       "children": 0,
@@ -7872,7 +7872,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "29",
       "adults": 2,
       "children": 0,
@@ -7882,7 +7882,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "29",
       "adults": 2,
       "children": 0,
@@ -7892,7 +7892,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "29",
       "adults": 2,
       "children": 0,
@@ -7902,7 +7902,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "29",
       "adults": 2,
       "children": 0,
@@ -7912,7 +7912,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "29",
       "adults": 2,
       "children": 0,
@@ -7922,7 +7922,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "29",
       "adults": 2,
       "children": 0,
@@ -7932,7 +7932,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "29",
       "adults": 2,
       "children": 0,
@@ -7942,7 +7942,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "30",
       "adults": 2,
       "children": 0,
@@ -7952,7 +7952,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "30",
       "adults": 1,
       "children": 0,
@@ -7962,7 +7962,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "30",
       "adults": 1,
       "children": 0,
@@ -7972,7 +7972,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "30",
       "adults": 2,
       "children": 0,
@@ -7982,7 +7982,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "30",
       "adults": 2,
       "children": 0,
@@ -7992,7 +7992,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "30",
       "adults": 3,
       "children": 1,
@@ -8002,7 +8002,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "30",
       "adults": 2,
       "children": 0,
@@ -8012,7 +8012,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "30",
       "adults": 2,
       "children": 0,
@@ -8022,7 +8022,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "30",
       "adults": 2,
       "children": 0,
@@ -8032,7 +8032,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "30",
       "adults": 2,
       "children": 2,
@@ -8042,7 +8042,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "30",
       "adults": 2,
       "children": 1,
@@ -8052,7 +8052,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "30",
       "adults": 2,
       "children": 0,
@@ -8062,7 +8062,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "30",
       "adults": 2,
       "children": 0,
@@ -8072,7 +8072,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "30",
       "adults": 2,
       "children": 0,
@@ -8082,7 +8082,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "30",
       "adults": 2,
       "children": 0,
@@ -8092,7 +8092,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "30",
       "adults": 2,
       "children": 0,
@@ -8102,7 +8102,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "30",
       "adults": 2,
       "children": 0,
@@ -8112,17 +8112,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
-      "arrival_date_day_of_month": "30",
-      "adults": 2,
-      "children": 0,
-      "babies": 0,
-      "country": "CHE",
-    },
-    {
-      "hotel": "Resort Hotel",
-      "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "30",
       "adults": 2,
       "children": 0,
@@ -8132,7 +8122,17 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
+      "arrival_date_day_of_month": "30",
+      "adults": 2,
+      "children": 0,
+      "babies": 0,
+      "country": "CHE",
+    },
+    {
+      "hotel": "Resort Hotel",
+      "arrival_date_year": 2015,
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "30",
       "adults": 2,
       "children": 0,
@@ -8142,7 +8142,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "31",
       "adults": 1,
       "children": 0,
@@ -8152,7 +8152,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "31",
       "adults": 2,
       "children": 0,
@@ -8162,7 +8162,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "31",
       "adults": 2,
       "children": 2,
@@ -8172,7 +8172,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "31",
       "adults": 2,
       "children": 0,
@@ -8182,7 +8182,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "31",
       "adults": 2,
       "children": 0,
@@ -8192,7 +8192,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "31",
       "adults": 2,
       "children": 0,
@@ -8202,7 +8202,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "31",
       "adults": 1,
       "children": 0,
@@ -8212,7 +8212,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "31",
       "adults": 2,
       "children": 0,
@@ -8222,7 +8222,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "31",
       "adults": 2,
       "children": 0,
@@ -8232,7 +8232,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "31",
       "adults": 2,
       "children": 0,
@@ -8242,7 +8242,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "31",
       "adults": 2,
       "children": 0,
@@ -8252,7 +8252,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "31",
       "adults": 2,
       "children": 0,
@@ -8262,7 +8262,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "31",
       "adults": 2,
       "children": 0,
@@ -8272,7 +8272,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "31",
       "adults": 2,
       "children": 0,
@@ -8282,7 +8282,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "31",
       "adults": 2,
       "children": 2,
@@ -8292,7 +8292,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "31",
       "adults": 2,
       "children": 0,
@@ -8302,7 +8302,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "31",
       "adults": 2,
       "children": 0,
@@ -8312,7 +8312,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "31",
       "adults": 2,
       "children": 0,
@@ -8322,7 +8322,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "31",
       "adults": 2,
       "children": 0,
@@ -8332,7 +8332,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "31",
       "adults": 2,
       "children": 0,
@@ -8342,7 +8342,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "31",
       "adults": 2,
       "children": 0,
@@ -8352,7 +8352,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "31",
       "adults": 2,
       "children": 0,
@@ -8362,7 +8362,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "31",
       "adults": 1,
       "children": 0,
@@ -8372,7 +8372,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "31",
       "adults": 2,
       "children": 2,
@@ -8382,7 +8382,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "31",
       "adults": 2,
       "children": 0,
@@ -8392,7 +8392,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "31",
       "adults": 1,
       "children": 0,
@@ -8402,7 +8402,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "31",
       "adults": 2,
       "children": 0,
@@ -8412,7 +8412,7 @@ const HotelBookings = [
     {
       "hotel": "Resort Hotel",
       "arrival_date_year": 2015,
-      "arrival_date_month": "July",
+      "arrival_date_month": "07",
       "arrival_date_day_of_month": "31",
       "adults": 2,
       "children": 0,

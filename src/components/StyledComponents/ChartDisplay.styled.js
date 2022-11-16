@@ -17,12 +17,9 @@ export const ChartDisplayStyled = styled.div`
 
     section{
         margin-bottom: 2rem;
-
-        div{
-            display: flex;
-            justify-content: end;
-            gap: 1rem;
-        }
+        display: flex;
+        justify-content: end;
+        gap: 1em;
     }
 
 `

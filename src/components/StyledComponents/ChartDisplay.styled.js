@@ -1,8 +1,8 @@
 import styled from "styled-components";
 
 export const ChartDisplayStyled = styled.div`
-    header{
 
+    header{
         div{
             font-size: 2.3em;
             font-weight: bold;
@@ -16,8 +16,7 @@ export const ChartDisplayStyled = styled.div`
     }
 
     section{
-
-        margin-bottom: 1rem;
+        margin-bottom: 2rem;
 
         div{
             display: flex;

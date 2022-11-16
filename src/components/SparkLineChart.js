@@ -85,9 +85,6 @@ const SparkLineChart = () => {
   ]
   
   // chart config
-
-
-  
   const options = {
     plugins: {
         legend: false,
@@ -99,6 +96,7 @@ const SparkLineChart = () => {
             },
         },
         y : {
+            
             grid : {
                 borderDash : [10],
             },

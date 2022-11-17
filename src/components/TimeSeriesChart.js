@@ -66,6 +66,9 @@ const TimeSeriesChart = () => {
               chart : {
                 id : "visitors per day"
               },
+              stroke: {
+                curve: 'smooth',
+              },
               xaxis : {
                 categories : [...visitorData.dates],
               },
@@ -87,8 +90,8 @@ const TimeSeriesChart = () => {
         </div>
         <div className='doughnutPlot'>
           <Chart type='donut' 
-              series={[...visitorData.adults, ...visitorData.children, ...visitorData.babies]} 
-              options={{
+            series={[...visitorData.adults, ...visitorData.children, ...visitorData.babies]} 
+            options={{
               chart: {
                 type: 'donut',
               },
@@ -97,7 +100,9 @@ const TimeSeriesChart = () => {
               },
               labels : ['Adults','Children','Babies'],
               colors : ["#168aad  ","#52b69a","#76a893"],
-            }} height={300}/>
+            }}
+            height={300}
+          />
         </div>
     </TimeSeriesChartContainer>
   )

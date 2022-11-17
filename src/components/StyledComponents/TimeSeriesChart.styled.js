@@ -10,6 +10,7 @@ export const TimeSeriesChartContainer = styled.div`
 
     .linePlot{
         width: 80%;
+        height: 300px;
     }
     .doughnutPlot{
         width: 20%;

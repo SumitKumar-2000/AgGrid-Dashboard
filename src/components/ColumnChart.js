@@ -72,7 +72,8 @@ const ColumnChart = () => {
             enabled: true,
             offsetY: -20,
             style: {
-              colors: ["#333333"]
+              colors: ["#333333"],
+              fontSize: 12
             }
           },
         }}

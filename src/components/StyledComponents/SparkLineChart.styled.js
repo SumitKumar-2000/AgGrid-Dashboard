@@ -31,7 +31,7 @@ export const SparkLineChartContainer = styled.div`
 
         .visitorPlot{
             width: 75%;
-            padding: 0.5em;
+            padding: 0.5em; 
         }
     }
 `

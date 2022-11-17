@@ -95,8 +95,7 @@ const SparkLineChart = () => {
                 display : false,
             },
         },
-        y : {
-            
+        y : {    
             grid : {
                 borderDash : [10],
             },

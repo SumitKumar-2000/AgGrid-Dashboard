@@ -43,6 +43,10 @@ const ColumnChart = () => {
           },
           xaxis : {
             categories : [...countryvisited],
+            title : {
+              text : "Countries",
+              position : "bottom"
+            }
           },
           yaxis : {
             title : {

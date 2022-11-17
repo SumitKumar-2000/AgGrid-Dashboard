@@ -71,7 +71,7 @@ const TimeSeriesChart = () => {
               },
               yaxis : {
                 title : {
-                  text : "Visitors_Count"
+                  text : "Visitor_Count"
                 }
               },
               colors : ["#34A0A4"],

@@ -56,6 +56,21 @@ const ColumnChart = () => {
               fontSize : "20"
             }
           },
+          plotOptions : {
+            bar : {
+              horizontal : false,
+              dataLabels : {
+                position : "top"
+              }
+            }
+          },
+          dataLabels: {
+            enabled: true,
+            offsetY: -20,
+            style: {
+              colors: ["#333333"]
+            }
+          },
         }}
         height={205}
        />

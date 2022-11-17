@@ -51,7 +51,7 @@ const ColumnChart = () => {
           },
           colors : ["#34A0A4"],
           title :{
-            text : "VISITORS PER COUNTRY",
+            text : `VISITORS PER COUNTRY [${startDate} to ${endDate}]`,
             style : {
               fontSize : "20"
             }

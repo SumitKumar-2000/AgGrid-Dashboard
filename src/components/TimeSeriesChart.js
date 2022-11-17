@@ -76,7 +76,7 @@ const TimeSeriesChart = () => {
               },
               colors : ["#34A0A4"],
               title :{
-                text : "VISITORS PER DAY",
+                text : `VISITORS PER DAY [${startDate} to ${endDate}]`,
                 style : {
                   fontSize : "20"
                 }

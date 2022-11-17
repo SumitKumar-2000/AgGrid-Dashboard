@@ -20,4 +20,4 @@ const useFilteredBookingStore = create(
 export default useFilteredBookingStore
 
 
-// ⚠️immer is important to reflect changes
+// ⚠️immer is important to reflect changes to states

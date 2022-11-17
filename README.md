@@ -21,8 +21,3 @@
                      |_ Chart.Js
 
 
-### Grid View
-![image](https://user-images.githubusercontent.com/80626529/202430791-283150ea-d091-45bf-8877-61c3303f9d17.png)
-
-### Chart View
-![image](https://user-images.githubusercontent.com/80626529/202431138-82751a96-63a1-4fe7-9d20-23000a0c253d.png)
